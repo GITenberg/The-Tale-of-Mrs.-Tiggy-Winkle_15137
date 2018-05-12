@@ -1,0 +1,67 @@
+_repo: The-Tale-of-Mrs.-Tiggy-Winkle_15137
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15137-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Potter, Helen Beatrix
+    - Heelis, Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Mrs. Tiggy-Winkle is a children's book written and illustrated\
+  \ by Beatrix Potter. It was published by Frederick Warne & Co. in October 1905.\
+  \ Mrs. Tiggy-winkle is a hedgehog washerwoman who lives in a tiny cottage in the\
+  \ fells of the Lake District. A child named Lucie happens upon the cottage and stays\
+  \ for tea. The two deliver freshly laundered clothing to the animals and birds in\
+  \ the neighbourhood. Potter thought the book would be best enjoyed by girls, and,\
+  \ like most girls' books of the period, it is set indoors with a focus on housework.\n\
+  Potter's pet hedgehog, Mrs. Tiggy-winkle, and Kitty MacDonald, a Scottish washerwoman,\
+  \ were the inspirations for the eponymous heroine. Lucie Carr, a child friend of\
+  \ Potter's, was the model for the fictional Lucie. Potter's Peter Rabbit and Benjamin\
+  \ Bunny make cameo appearances in the illustrations. The Newlands Valley and the\
+  \ surrounding fells are the sources for the backgrounds in the illustrations.\n\
+  Mrs. Tiggy-winkle has been described as one of Potter's most positive creations,\
+  \ but critics consider Lucie an artistic failure. Although Mrs. Tiggy-Winkle is\
+  \ set in an identifiable place and time period, the tale is mythologized by reaching\
+  \ back to an age when household chores were performed manually and without the aid\
+  \ of modern mechanical inventions. The simple dwellings, rustic pathways, and stone\
+  \ fences enhance the tale's timeless aspect and suggest an unchanging countryside\
+  \ and its way of life.\nMrs. Tiggy-winkle became a popular character and the subject\
+  \ of considerable merchandise over the decades including nursery ware and porcelain\
+  \ figurines. The tale has been published in braille and the Initial Teaching Alphabet,\
+  \ and has been translated into French, German, and Dutch. In 1971, Mrs. Tiggy-winkle\
+  \ became a character performed by Sir Frederick Ashton in the Royal Ballet film,\
+  \ The Tales of Beatrix Potter. In 1993, the tale was adapted to animation and telecast\
+  \ as an episode of the BBC series, The World of Peter Rabbit and Friends.In the\
+  \ world of Peter rabbit and friends the story was combined with the tale of Jeremy\
+  \ Fisher, the 7th book in the series. This book, the tale of Mrs tiggy Winkle, is\
+  \ the 6th book in the series. It is also the 6th book to be published.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15137'
+  wikidata: Q6625462
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Hedgehogs -- Juvenile fiction'
+title: The Tale of Mrs. Tiggy-Winkle
+url: http://www.gutenberg.org/ebooks/15137
+wikipedia:
+- https://fr.wikipedia.org/wiki/Madame_Piquedru_la_blanchisseuse
+- https://id.wikipedia.org/wiki/The_Tale_of_Mrs._Tiggy-Winkle
+- https://pt.wikipedia.org/wiki/The_Tale_of_Mrs._Tiggy-Winkle
+- https://en.wikisource.org/wiki/The_Tale_of_Mrs._Tiggy-Winkle
+- https://en.wikipedia.org/wiki/The_Tale_of_Mrs._Tiggy-Winkle
+- https://commons.wikimedia.org/wiki/Category:Mrs_Tiggy-Winkle
